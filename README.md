@@ -1,4 +1,4 @@
-<p style="font-size: 24px;">Hi there, I'm Mahela Dissanayake! 👋</p>
+### Hi there, I'm Mahela Dissanayake! 👋
 
 Welcome to my GitHub profile!
 
