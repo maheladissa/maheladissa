@@ -1,16 +1,19 @@
-Hi there, I'm Mahela Dissanayake! 👋
+<p style="font-size: 24px;">Hi there, I'm Mahela Dissanayake! 👋</p>
 
 Welcome to my GitHub profile!
-About Me
 
-👀 I’m passionate about UI and UX Design and am constantly exploring new ways to create intuitive and delightful user experiences.
+## About Me
 
-🌱 Currently, I'm deepening my knowledge in User Experience Design to enhance my skills and bring innovative solutions to life.
+<ul>
+    <li>👀 I’m passionate about <strong>UI and UX Design</strong> and am constantly exploring new ways to create intuitive and delightful user experiences.</li>
+    <li>🌱 Currently, I'm deepening my knowledge in <strong>User Experience Design</strong> to enhance my skills and bring innovative solutions to life.</li>
+    <li>💞️ I’m eager to collaborate on <strong>UI design projects</strong>. If you have an exciting project or idea, feel free to reach out!</li>
+</ul>
 
-💞️ I’m eager to collaborate on UI design projects. If you have an exciting project or idea, feel free to reach out!
-Let's Connect
+## Let's Connect
 
-📫 You can reach me at maheladissanayake@gmail.com. I look forward to connecting and potentially working together!
+<p>📫 You can reach me at <strong>maheladissanayake@gmail.com</strong>. I look forward to connecting and potentially working together!</p>
+
 
 <!---
 maheladissa/maheladissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
