@@ -1,4 +1,4 @@
-### Hi there, I'm Mahela Dissanayake! 👋
+# Hi there, I'm Mahela Dissanayake! 👋
 
 Welcome to my GitHub profile!
 
